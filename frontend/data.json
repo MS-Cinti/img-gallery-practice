@@ -1,0 +1,42 @@
+[
+    {
+        "fileName" : "s1.jpg",
+        "title": "Isle of Skye"
+    },
+    {
+        "fileName" : "s2.jpg",
+        "title": "Kilchurn Castle"
+    },
+    {
+        "fileName" : "s3.jpg",
+        "title": "The lighthouse"
+    },
+    {
+        "fileName" : "s4.jpg",
+        "title": "Potter bridge"
+    },
+    {
+        "fileName" : "s5.jpg",
+        "title": "Faroe islands"
+    },
+    {
+        "fileName" : "s6.jpg",
+        "title": "Walkway"
+    },
+    {
+        "fileName" : "s7.jpg",
+        "title": "Harry bridge"
+    },
+    {
+        "fileName" : "s8.jpg",
+        "title": "Cottage"
+    },
+    {
+        "fileName" : "s9.jpg",
+        "title": "Kyloe"
+    },
+    {
+        "fileName" : "s10.jpg",
+        "title": "Edinburgh"
+    }
+]
